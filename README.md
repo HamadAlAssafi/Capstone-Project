@@ -47,8 +47,8 @@
 1. The project related to Data Science Nanodegree at Udacity
 2. I have used NLP and Machine Learning Pipelines to create model that classifiy whether the news is real or fake based on it is title, the algorthim that I used is (Logistic Regression)
 3. I have deployed the model to website using (Flask)
-4. I have published blogpost in medium about my findings https://hamadalassafi.medium.com/fake-news-predictor-25d130592f87
-5. The dataset was exported from Kaggle https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+4. I have published blogpost in medium about my findings [Blogpost](https://hamadalassafi.medium.com/fake-news-predictor-25d130592f87)
+5. The dataset was exported from Kaggle [Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
 6. README FILE
 
