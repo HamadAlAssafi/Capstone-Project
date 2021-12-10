@@ -13,7 +13,6 @@
 - sklearn
 - nltk
 
-### Motivation
 
 ### Files Description
 
